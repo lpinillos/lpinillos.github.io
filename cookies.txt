@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zaxm-zgfl.maillist-manage.com	TRUE	/	FALSE	1999999999	zalb_c72887300d	bc8a164127ae0588ecb5d0b57b5fb0ca
+zaxm-zgfl.maillist-manage.com	TRUE	/	FALSE	1999999999	ZCAMPAIGN_CSRF_TOKEN	11bb9d15-801b-4cfc-aebc-f5e3fea124ab
+zaxm-zgfl.maillist-manage.com	TRUE	/	FALSE	1999999999	_zcsr_tmp	11bb9d15-801b-4cfc-aebc-f5e3fea124ab
+zaxm-zgfl.maillist-manage.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+zaxm-zgfl.maillist-manage.com	TRUE	/	FALSE	1999999999	priority	high
+
